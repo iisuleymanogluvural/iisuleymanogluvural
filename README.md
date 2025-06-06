@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iisuleymanogluvural
 - 👀 I’m interested in everything, sc,ence,trees,people,music
-- 🌱 I’m currently learning artificial intelligence but ım beginner
+- 🌱 I’m currently learning artificial intelligence but ım beginner  passed Statictics as BB+,so ı know basics,also Numerical methods,Differential Equations
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :  you can access to me from e-mail:iisuleymanoglu@gmail.com.tr, or github, or linkedln:
 https://www.linkedin.com/in/ilayda-s%C3%BCleymano%C4%9Flu-093229202/
